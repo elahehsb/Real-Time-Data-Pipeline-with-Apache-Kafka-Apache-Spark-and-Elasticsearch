@@ -1,0 +1,1 @@
+This project focuses on building a scalable data pipeline using Apache Kafka for real-time data processing, Apache Spark for data processing and analytics, and Elasticsearch for storing and querying the processed data. 
